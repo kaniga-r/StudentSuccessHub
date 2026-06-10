@@ -1,27 +1,18 @@
 **StudentSuccessHub**
 
-
-**Overview**
-Student Success Hub is a C++ academic assistant designed to help students manage their academic activities and career planning.
+A C++ mini project developed to help students manage academics and career planning.
 
 **Features**
-- Career Guidance System
+- Career Guidance
 - CGPA Calculator
 - Attendance Tracker
 - Exam Planner
-- Placement Readiness Score
+- Placement Readiness Checker
 - Performance Predictor
 
-**Technologies Used**
+**Developed Using**
 - C++
-- Object-Oriented Programming (OOP)
-- Functions
-- Classes
+- Object-Oriented Programming
 - File Handling
 
-**Project Objective**
-The objective of this project is to provide students with a simple academic assistant that helps with academic tracking, career planning, and placement preparation.
-
 **Author : Kaniga R**
-
-Screenshots : Project screenshots are available in the Screenshots folder.
